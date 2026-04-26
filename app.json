@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Unit Converter",
+    "slug": "unitConverter",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "75f81549-fc49-4e2c-b524-2950ef72c53b"
+      }
+    },
+    "owner": "darshkukreja"
+  }
+}
