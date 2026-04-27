@@ -8,6 +8,12 @@
         "projectId": "75f81549-fc49-4e2c-b524-2950ef72c53b"
       }
     },
-    "owner": "darshkukreja"
+    "owner": "darshkukreja",
+    "android": {
+      "package": "com.darshkukreja.unitConverter"
+    },
+    "ios": {
+      "bundleIdentifier": "com.darshkukreja.unitConverter"
+    }
   }
 }
