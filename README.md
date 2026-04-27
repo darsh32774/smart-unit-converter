@@ -1,9 +1,3 @@
-# Demo Video
-
-https://github.com/user-attachments/assets/78e21aa3-c248-4c91-97e6-f77940469329
-
----
-
 # 📱 Smart Unit Converter
 
 A modular React Native mobile application that supports multiple unit conversions including distance, weight, temperature, currency, and number systems.
